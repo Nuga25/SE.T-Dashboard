@@ -11,7 +11,9 @@ module.exports = {
         lightblue: "rgb(154, 201, 246)",
         bordercolor: " #F0F0F0",
         planningBg: " #F7F7F7",
-        graytext: ": #BDBDBD",
+        gray: ": #BDBDBD",
+        statistictextcolor: " #8EA3B7",
+        darkblue: " #006ED3",
       },
       fontFamily: {
         manrope: ["Manrope", "san-serif"],
